@@ -5,11 +5,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @rkgitvinay/number-formatter`
+  `npm install @rkgitvinay/rkgitvinay-number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@rkgitvinay/number-formatter');
+    var numFormatter = require('@rkgitvinay/rkgitvinay-number-formatter');
 
     var formattedNum = numFormatter(35666);
   
